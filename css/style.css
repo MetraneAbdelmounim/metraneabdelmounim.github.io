@@ -330,7 +330,9 @@ body{
 .formation{
 	transform: initial;
 }
-
+.lien{
+	font-size: 5px
+}
 }
 @media (max-width: 767.98px) {
 body{font-size: 12px;}
